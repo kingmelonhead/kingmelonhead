@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kingmelonhead
+- 👋 Hi, I’m @kingmelonhead (John Hackstadt outside of GitHub)
 - 👀 I’m interested in anything computer science, video games, or food related!
 - 🌱 I’m currently learning various topics at the University of Missouri St. Louis
 - 💞️ I’m looking to collaborate on really anything outside of my typical comfort zone. Reason being I would like experience with more softare/programming languages
